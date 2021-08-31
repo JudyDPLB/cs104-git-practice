@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#cs104 lab 1
+hello_world
+
